@@ -37,6 +37,7 @@ Data types merupakan jenis data yang dapat disimpan dalam suatu varible sehingga
 Tipe data di Javascript terbagi menjadi 2:
     🔹Tipe Data Primitive
         Tipe data basic yang umum digunakan di banyak bahasa pemrograman:
+
             ▪️Integer    : Tipe data yang berisikan kumpulan angka
             ▪️String     : Tipe data yang nilainya diapit oleh petik ("", '', atau ``)
             ▪️Boolean    : Tipe data yang memiliki 2 nilai, yaitu true dan false
@@ -48,6 +49,7 @@ Tipe data di Javascript terbagi menjadi 2:
 
 ✔️Comparison Operator
 Comparison operator (operator perbandingan) adalah operator yang digunakan untuk membandingkan dua nilai. Hasil dari operasi ini selalu berupa boolean: true (benar) atau false (salah).
+
     ▪️>
     ▪️>=
     ▪️<

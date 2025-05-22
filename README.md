@@ -35,11 +35,11 @@ Conditional statement digunakan untuk menjalankan kode tertentu berdasarkan suat
 Looping digunakan untuk menjalankan tugas secara berulang-ulang sampai suatu kondisi terpenuhi.
 Beberapa parameter yang perlu diperhatikan pada looping:
 
-    ▪️Inisialisasi : Berfungsi untuk menetapkan nilai awal variabel yang akan dipantau didalam looping
+▪️Inisialisasi : Berfungsi untuk menetapkan nilai awal variabel yang akan dipantau didalam looping
 
-    ▪️Condition : Berfungsi untuk menentukan apakah looping akan terus dijalankan atau dihentikan.
-    
-    ▪️ExitWay : Berfungsi untuk menghindari terjadinya infinite loop. ExitWay bertugas untuk merubah variabel `inisialisasi` hingga akhirnya dapat merubah condition.
+▪️Condition : Berfungsi untuk menentukan apakah looping akan terus dijalankan atau dihentikan.
+
+▪️ExitWay : Berfungsi untuk menghindari terjadinya infinite loop. ExitWay bertugas untuk merubah variabel `inisialisasi` hingga akhirnya dapat merubah condition.
 
     🔹Jenis-Jenis Looping
 

@@ -1,6 +1,7 @@
 Hello, Full Stack Students✌️!
 
 ✔️Variabel
+
 Variabel adalah tempat untuk menyimpan data agar bisa digunakan secara berulang dan diproses didalam program.
 
     🔹Deklarasi Variable
@@ -33,6 +34,7 @@ Variabel adalah tempat untuk menyimpan data agar bisa digunakan secara berulang 
             ✅ Memiliki aturan scope
 
 ✔️Data Types
+
 Data types merupakan jenis data yang dapat disimpan dalam suatu varible sehingga dapat diolah oleh sebuah program. 
 Tipe data di Javascript terbagi menjadi 2:
     
@@ -54,21 +56,21 @@ Tipe data di Javascript terbagi menjadi 2:
 ✔️Comparison Operator
 Comparison operator (operator perbandingan) adalah operator yang digunakan untuk membandingkan dua nilai. Hasil dari operasi ini selalu berupa boolean: true (benar) atau false (salah).
 
-▪️>
+    ▪️>
 
-▪️>=
+    ▪️>=
 
-▪️<
+    ▪️<
 
-▪️<=
+    ▪️<=
 
-▪️== 
+    ▪️== 
 
-▪️===
+    ▪️===
 
-▪️!=
+    ▪️!=
 
-📒Note:
-    Perbedaan antara == dan === yaitu apabila == hanya membandingkan nilai saja, sedangkan === membandingkan nilai dan tipe data.
+    📒Note:
+        Perbedaan antara == dan === yaitu apabila == hanya membandingkan nilai saja, sedangkan === membandingkan nilai dan tipe data.
 
 

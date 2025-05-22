@@ -54,6 +54,7 @@ Tipe data di Javascript terbagi menjadi 2:
         ▪️Object
 
 ✔️Comparison Operator
+
 Comparison operator (operator perbandingan) adalah operator yang digunakan untuk membandingkan dua nilai. Hasil dari operasi ini selalu berupa boolean: true (benar) atau false (salah).
 
     ▪️>

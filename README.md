@@ -1,6 +1,7 @@
 Hello, Full Stack Students✌️!
 
 ✔️Conditional Statement
+
 Conditional statement digunakan untuk menjalankan kode tertentu berdasarkan suatu kondisi.
 
     🔹Macam-Macam Struktur Conditional
@@ -32,6 +33,7 @@ Conditional statement digunakan untuk menjalankan kode tertentu berdasarkan suat
                 }
 
 ✔️Looping
+
 Looping digunakan untuk menjalankan tugas secara berulang-ulang sampai suatu kondisi terpenuhi.
 Beberapa parameter yang perlu diperhatikan pada looping:
 
@@ -95,6 +97,7 @@ Beberapa parameter yang perlu diperhatikan pada looping:
                 }
 
 ✔️Logical Opertator
+
 Digunakan untuk menggabungkan lebih dari 1 kondisi dan menghasilkan nilai akhir berupa boolean (true atau false). Berikut logical operator yang ada di Javascript:
 
         🔹|| (OR)
@@ -129,6 +132,7 @@ Digunakan untuk menggabungkan lebih dari 1 kondisi dan menghasilkan nilai akhir 
                     }
 
 ✔️Truthy & Falsy
+
 Dalam JavaScript, `truthy` dan `falsy` adalah istilah yang digunakan untuk menggambarkan bagaimana nilai non-boolean dikonversi menjadi nilai boolean dalam konteks seperti conditional statement (if), logical operator, dll. Secara sederhana, truthy-falsy memiliki kegunaan untuk mempersingkat penulisan syntax.
 
 Kita bisa ambil contoh dari code berikut:

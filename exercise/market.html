@@ -1,4 +1,13 @@
 <script>
-  console.log('Hello');
-  alert('Hello');
+  // Apel: 30000 - 100, Anggur: 45000 - 50, Jeruk: 20000 - 300
+  const products = ['Apel', 'Anggur', 'Jeruk'];
+  const prices = [30000, 45000, 20000];
+  const stocks = [100, 50, 300];
+
+  let printProducts = '';
+  for (let i = 0; i < products.length; i++) {
+    printProducts += `${products[i]}: ${prices[i]} (Stocks: ${stocks[i]}) \n`;
+  }
+
+  alert(printProducts);
 </script>
